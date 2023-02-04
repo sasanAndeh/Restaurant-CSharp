@@ -1,0 +1,12 @@
+D:\C#\projects\restaurant\restaurant\FrameWork\bin\Debug\FrameWork.dll
+D:\C#\projects\restaurant\restaurant\FrameWork\bin\Debug\FrameWork.pdb
+D:\C#\projects\restaurant\restaurant\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+D:\C#\projects\restaurant\restaurant\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+D:\C#\projects\restaurant\restaurant\FrameWork\obj\Debug\FrameWork.dll
+D:\C#\projects\restaurant\restaurant\FrameWork\obj\Debug\FrameWork.pdb
+D:\C#\projects\restaurant\restaurant\FrameWork\bin\Debug\FrameWork.dll.config
+D:\C#\projects\restaurant\restaurant\FrameWork\bin\Debug\EntityFramework.dll
+D:\C#\projects\restaurant\restaurant\FrameWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\projects\restaurant\restaurant\FrameWork\bin\Debug\EntityFramework.xml
+D:\C#\projects\restaurant\restaurant\FrameWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\projects\restaurant\restaurant\FrameWork\obj\Debug\FrameWork.csproj.CopyComplete
